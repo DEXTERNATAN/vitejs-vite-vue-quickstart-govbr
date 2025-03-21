@@ -6,7 +6,7 @@ const title = 'Web Components GovBR-DS - Quickstart Vue';
 const signature = 'Padrão Digital de Governo';
 const image = ref({
   src: './src/assets/logo-vue.png',
-  alt: 'Logo de exemplo',
+  alt: 'Logo do exemplo',
 });
 
 const links = ref([
